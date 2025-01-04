@@ -1,3 +1,5 @@
+#I wasn't sure how to make the buttons actually do something so the "#" chats are saying what the are supposed to do
+
 import tkinter as tk
 from window import MainWindow
 from difficulty import Difficulty
